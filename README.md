@@ -19,7 +19,9 @@
 
 ## No Arty
 
-- Artillery: All units are disabled
+- Unit Disabled: Artillery
+- Unit Disabled: Rocket Launcher
+- Unit Disabled: Assault Gun
 
 ## Normal
 
