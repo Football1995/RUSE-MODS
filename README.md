@@ -2,41 +2,68 @@
 
 ## Economy + Buildings + Expensive Arty
 
-- Price: Admininistration Building multiplied by 1.2x
-- Price: Bunkers multiplied by 3x
-- Price: Supply Depots remain unchanged
-- Price: Every other building multiplied by 1.5x
-- Price: Every Artillery unit multiplied by 10x
-- Price: Every Assault Gun unit multiplied by 10x
-- Price: Every Rocket Launcher unit multiplied by 10x
+### Price
 
-- Supply Depot: Has an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+- Admininistration Building multiplied by 1.2x
+- Bunkers multiplied by 3x
+- Supply Depots remain unchanged
+- Every other building multiplied by 1.5x
+- Every Artillery unit multiplied by 10x
+- Every Assault Gun unit multiplied by 10x
+- Every Rocket Launcher unit multiplied by 10x
 
-- Hit-points: Bunkers multiplied by 8x
-- Hit-points: Every other building multiplied by 2x
+### Hit-points
+
+- Bunkers multiplied by 8x
+- Every other building multiplied by 2x
+
+### Misc
+
+- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+
+<br>
 
 ## Economy + Buildings
 
-- Price: Admininistration Building multiplied by 1.2x
-- Price: Bunkers multiplied by 3x
-- Price: Supply Depots remain unchanged
-- Price: Every other building multiplied by 1.5x
+### Price
 
-- Supply Depot: Has an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+- Admininistration Building multiplied by 1.2x
+- Bunkers multiplied by 3x
+- Supply Depots remain unchanged
+- Every other building multiplied by 1.5x
 
-- Hit-points: Bunkers multiplied by 8x
-- Hit-points: Every other building multiplied by 2x
+### Hit-points
+
+- Bunkers multiplied by 8x
+- Every other building multiplied by 2x
+
+### Misc
+
+- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+
+<br>
 
 ## Economy
 
-- Price: Admininistration Building multiplied by 1.2x
-- Supply Depot: Has an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+### Price
+
+- Admininistration Building multiplied by 1.2x
+
+### Misc
+
+- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+
+<br>
 
 ## No Arty
 
-- Unit Disabled: Artillery
-- Unit Disabled: Rocket Launcher
-- Unit Disabled: Assault Gun
+### Units
+
+- Disabled all Artillery units
+- Disabled all Assault Gun units
+- Disabled all Rocket Launcher units
+
+<br>
 
 ## Normal
 
