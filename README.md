@@ -4,7 +4,7 @@
 
 ### Price
 
-- Admininistration Building multiplied by 1.2x
+- Admininistration Building multiplied by 2.4x
 - Bunkers multiplied by 3x
 - Supply Depots remain unchanged
 - Every other building multiplied by 1.5x
@@ -20,6 +20,7 @@
 ### Misc
 
 - Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+- Admininistration Building income increased by 2x
 
 <br>
 
@@ -27,7 +28,7 @@
 
 ### Price
 
-- Admininistration Building multiplied by 1.2x
+- Admininistration Building multiplied by 2.4x
 - Bunkers multiplied by 3x
 - Supply Depots remain unchanged
 - Every other building multiplied by 1.5x
@@ -40,6 +41,7 @@
 ### Misc
 
 - Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+- Admininistration Building income increased by 2x
 
 <br>
 
@@ -47,11 +49,12 @@
 
 ### Price
 
-- Admininistration Building multiplied by 1.2x
+- Admininistration Building multiplied by 2.4x
 
 ### Misc
 
 - Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
+- Admininistration Building income increased by 2x
 
 <br>
 
