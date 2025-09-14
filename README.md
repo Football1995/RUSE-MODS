@@ -1,5 +1,15 @@
 # RUSE MODS
 
+## SCBM + Infinite Depots
+
+### SCBM
+
+- https://www.moddb.com/mods/rscbm-ruse-supercrumpets-balance-mod/downloads/ruse-scbm-0-97b3
+
+### Misc
+
+- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 4/40s due to workaround)
+
 ## Economy + Buildings + Expensive Arty
 
 ### Price
