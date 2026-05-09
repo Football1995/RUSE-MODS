@@ -1,7 +1,5 @@
 # RUSE MODS
 
-These archived versions are compatible with RUSE before the Steam Re-release
-
 ## SCBM + Infinite Depots
 
 ### SCBM
