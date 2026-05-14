@@ -18,3 +18,10 @@
 - **[Price]** Every Artillery unit multiplied by 10x
 - **[Price]** Every Assault Gun unit multiplied by 10x
 - **[Price]** Every Rocket Launcher unit multiplied by 10x
+
+<hr>
+
+### Airfields
+- **[Price]** Airfields set to vanilla value
+- **[Hit-points]** Airfields set to vanilla value
+- **[Capacity]** Reduced plane capacity from 8 to 4
