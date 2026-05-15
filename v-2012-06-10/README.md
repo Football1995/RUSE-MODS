@@ -1,70 +1,30 @@
-# RUSE MODS
+# RUSE PATCHES
 
-## SCBM + Infinite Depots
+### Economy
+- **[Price]** Admininistration Building multiplied by 1.2x
+- **[Misc]** Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
 
-### SCBM
+<hr>
 
-- https://www.moddb.com/mods/rscbm-ruse-supercrumpets-balance-mod/downloads/ruse-scbm-0-97b3
+### Buildings
+- **[Price]** Bunkers multiplied by 3x
+- **[Price]** Every other building multiplied by 1.5x
+- **[Hit-points]** Bunkers multiplied by 8x
+- **[Hit-points]** Every other building multiplied by 2x
 
-### Misc
+<hr>
 
-- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 4/40s due to workaround)
+### Expensive Arty
+- **[Price]** Every Artillery unit multiplied by 10x
+- **[Price]** Every Assault Gun unit multiplied by 10x
+- **[Price]** Every Rocket Launcher unit multiplied by 10x
 
-## Economy + Buildings + Expensive Arty
+<hr>
 
-### Price
-
-- Admininistration Building multiplied by 2.4x
-- Bunkers multiplied by 3x
-- Supply Depots remain unchanged
-- Every other building multiplied by 1.5x
-- Every Artillery unit multiplied by 10x
-- Every Assault Gun unit multiplied by 10x
-- Every Rocket Launcher unit multiplied by 10x
-
-### Hit-points
-
-- Bunkers multiplied by 8x
-- Every other building multiplied by 2x
-
-### Misc
-
-- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
-- Admininistration Building income increased by 2x
-
-<br>
-
-## Economy + Buildings
-
-### Price
-
-- Admininistration Building multiplied by 2.4x
-- Bunkers multiplied by 3x
-- Supply Depots remain unchanged
-- Every other building multiplied by 1.5x
-
-### Hit-points
-
-- Bunkers multiplied by 8x
-- Every other building multiplied by 2x
-
-### Misc
-
-- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
-- Admininistration Building income increased by 2x
-
-<br>
-
-## Economy
-
-### Price
-
-- Admininistration Building multiplied by 2.4x
-
-### Misc
-
-- Supply Depots have an infinite resource supply (convoy is 1/10s, rather than 3/30s due to workaround)
-- Admininistration Building income increased by 2x
+### Airfields
+- **[Price]** Airfields set to vanilla value
+- **[Hit-points]** Airfields set to vanilla value
+- **[Capacity]** Reduced plane capacity from 8 to 4
 
 <br>
 
@@ -81,3 +41,9 @@
 ## Normal
 
 - Vanilla RUSE data file
+
+<br>
+
+### SCBM
+
+- https://www.moddb.com/mods/rscbm-ruse-supercrumpets-balance-mod/downloads/ruse-scbm-0-97b3
