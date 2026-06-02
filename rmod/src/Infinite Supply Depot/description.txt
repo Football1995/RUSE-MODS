@@ -1,0 +1,4 @@
+Football1995, and RossGosling
+Supply Depots now contain an unfathomably high amount of resources
+With this increase, your Supply Trucks no longer come out 3 at a time, but 1, maintaining the same income per convoy, but being more vulnerable (and necessary for the workaround)
+1.0.0

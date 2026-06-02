@@ -1,0 +1,4 @@
+Football1995, and RossGosling
+Multiplies the Hit-points of every Bunker by 8.0x
+Multiplies the Price of every Bunker by 3.0x
+1.0.0

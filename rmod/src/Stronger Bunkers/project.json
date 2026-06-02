@@ -1,0 +1,9 @@
+{
+  "name": "Stronger Bunkers",
+  "version": "public",
+  "tool": "RUSE ModManager \u2014 Mod Editor",
+  "updated": "2026-06-02 21:40:46",
+  "files": [
+    "ZZ_GladPatchableWin.dat"
+  ]
+}

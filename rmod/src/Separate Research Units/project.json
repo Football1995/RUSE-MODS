@@ -1,0 +1,9 @@
+{
+  "name": "Separate Research Units",
+  "version": "public",
+  "tool": "RUSE ModManager \u2014 Mod Editor",
+  "updated": "2026-06-02 23:15:27",
+  "files": [
+    "ZZ_GladPatchableWin.dat"
+  ]
+}

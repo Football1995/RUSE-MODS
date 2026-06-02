@@ -1,0 +1,4 @@
+Football1995, and RossGosling
+Every upgrade is now a separate menu entry, allowing for prior versions to still be purchased
+Super Pershing is the only exception, replacing the Pershing as standard
+1.0.0
