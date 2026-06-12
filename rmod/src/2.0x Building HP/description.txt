@@ -1,3 +1,0 @@
-Football1995, and RossGosling
-Multiplies the Hit-points of every Building by 2.0x
-1.0.0

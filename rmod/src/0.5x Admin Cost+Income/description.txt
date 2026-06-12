@@ -1,4 +1,0 @@
-Football1995, and RossGosling
-Multiplies both the Price, and Income, of Administration Buildings by 0.5x
-Note this influences your HQ too
-1.0.0

@@ -1,3 +1,0 @@
-Football1995, and RossGosling
-Reduces the number of aeroplanes that can fit in an Airfield from 8 to 4
-1.0.0

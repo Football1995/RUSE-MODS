@@ -1,7 +1,7 @@
 {
   "$schema": "ruse-mod/v1",
-  "id": "stronger-bunkers-v1",
-  "name": "Stronger Bunkers",
+  "id": "8-0x-bunker-hp-v1",
+  "name": "8.0x Bunker HP",
   "version": "1.0.0",
   "patches": [
     {
@@ -22,16 +22,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                60,
-                60,
-                60,
-                60,
-                60
-              ]
             }
           }
         },
@@ -49,16 +39,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                75,
-                75,
-                75,
-                75,
-                75
-              ]
             }
           }
         },
@@ -76,16 +56,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                90,
-                90,
-                90,
-                90,
-                90
-              ]
             }
           }
         },
@@ -103,16 +73,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                150,
-                150,
-                150,
-                150,
-                150
-              ]
             }
           }
         },
@@ -130,16 +90,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                60,
-                60,
-                60,
-                60,
-                60
-              ]
             }
           }
         },
@@ -157,16 +107,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 2000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                45,
-                45,
-                45,
-                45,
-                45
-              ]
             }
           }
         },
@@ -184,16 +124,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                90,
-                90,
-                90,
-                90,
-                90
-              ]
             }
           }
         },
@@ -211,16 +141,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 2000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                60,
-                60,
-                60,
-                60,
-                60
-              ]
             }
           }
         },
@@ -238,16 +158,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                150,
-                150,
-                150,
-                150,
-                150
-              ]
             }
           }
         },
@@ -265,16 +175,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                60,
-                60,
-                60,
-                60,
-                60
-              ]
             }
           }
         },
@@ -292,16 +192,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 16000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                120,
-                120,
-                120,
-                120,
-                120
-              ]
             }
           }
         },
@@ -319,16 +209,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 6000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                120,
-                120,
-                120,
-                120,
-                120
-              ]
             }
           }
         },
@@ -346,16 +226,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 2000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                75,
-                75,
-                75,
-                75,
-                75
-              ]
             }
           }
         },
@@ -373,16 +243,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 12000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                135,
-                135,
-                135,
-                135,
-                135
-              ]
             }
           }
         },
@@ -400,16 +260,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 16000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                75,
-                75,
-                75,
-                75,
-                75
-              ]
             }
           }
         },
@@ -427,16 +277,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 2000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                90,
-                90,
-                90,
-                90,
-                90
-              ]
             }
           }
         },
@@ -454,16 +294,6 @@
             "SeuilPinned": {
               "type": "Float32",
               "value": 2000.0
-            },
-            "ProductionPrice": {
-              "type": "List<Int32>",
-              "value": [
-                60,
-                60,
-                60,
-                60,
-                60
-              ]
             }
           }
         },
@@ -743,5 +573,5 @@
     }
   ],
   "author": "Football1995, and RossGosling",
-  "description": "Multiplies the Hit-points of every Bunker by 8.0x\nMultiplies the Price of every Bunker by 3.0x"
+  "description": "Multiplies the Hit-points of every Bunker by 8.0x\nCould be paired nicely with the x3.0 Bunker Price mod c:"
 }

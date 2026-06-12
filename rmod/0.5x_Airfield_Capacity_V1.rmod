@@ -1,7 +1,7 @@
 {
   "$schema": "ruse-mod/v1",
-  "id": "reduced-airfield-capacity-v1",
-  "name": "Reduced Airfield Capacity",
+  "id": "0.5x-airfield-capacity-v1",
+  "name": "0.5x Airfield Capacity",
   "version": "1.0.0",
   "patches": [
     {

@@ -1,3 +1,0 @@
-Football1995, and RossGosling
-Multiplies the Price of every Rocket Launcher unit by 10.0x
-1.0.0
